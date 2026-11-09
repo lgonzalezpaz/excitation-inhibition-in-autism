@@ -1,0 +1,65 @@
+{
+  "title": "The excitation-inhibition ratio cannot identify its own cause: A computational study of release statistics distinguishes primary from compensatory presynaptic change in autism",
+  "description": "Complete source code, exact analytical release model recursions, structural identifiability and null-space projection analyses, Fisher information experimental designs, and public human genomic and transcriptomic validation pipeline for the study: 'The excitation-inhibition ratio cannot identify its own cause: A computational study of release statistics distinguishes primary from compensatory presynaptic change in autism'.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Alvarado, Ysa\u00edas J.",
+      "affiliation": "Instituto Venezolano de Investigaciones Cient\u00edficas (IVIC), Centro de Biomedicina Molecular (CBM), 4001 Maracaibo, Venezuela"
+    },
+    {
+      "name": "Quintero, M\u00e1ximo",
+      "affiliation": "Servicio Aut\u00f3nomo Hospital Universitario de Maracaibo (SAHUM), Servicio de Neurolog\u00eda; Universidad del Zulia, Facultad de Medicina, 4001 Maracaibo, Venezuela"
+    },
+    {
+      "name": "Cardozo-Urdaneta, Arlene",
+      "affiliation": "Instituto Venezolano de Investigaciones Cient\u00edficas (IVIC), Centro de Biomedicina Molecular (CBM), 4001 Maracaibo, Venezuela"
+    },
+    {
+      "name": "Lossada, Carla",
+      "affiliation": "Instituto Venezolano de Investigaciones Cient\u00edficas (IVIC), Centro de Biomedicina Molecular (CBM), 4001 Maracaibo, Venezuela"
+    },
+    {
+      "name": "Marrero-Ponce, Yovani",
+      "affiliation": "Universidad Panamericana, Facultad de Ingenier\u00eda, Ciudad de M\u00e9xico, M\u00e9xico; Universidad San Francisco de Quito, Grupo de Medicina Molecular y Traslacional (MeM&T), Quito, Ecuador"
+    },
+    {
+      "name": "Martinez-Rios, F\u00e9lix",
+      "affiliation": "Universidad Panamericana, Facultad de Ingenier\u00eda, Ciudad de M\u00e9xico, M\u00e9xico"
+    },
+    {
+      "name": "P\u00e9rez-Castillo, Yunierkis",
+      "affiliation": "Bio-Chemoinformatics Research Group, Universidad de las Am\u00e9ricas, Quito, Ecuador"
+    },
+    {
+      "name": "Delgado, Ariana",
+      "affiliation": "Instituto Venezolano de Investigaciones Cient\u00edficas (IVIC), Centro de Biomedicina Molecular (CBM), 4001 Maracaibo, Venezuela"
+    },
+    {
+      "name": "Gonz\u00e1lez-Paz, Lenin",
+      "affiliation": "Instituto Venezolano de Investigaciones Cient\u00edficas (IVIC), Centro de Biomedicina Molecular (CBM), 4001 Maracaibo, Venezuela"
+    }
+  ],
+  "keywords": [
+    "synaptic vesicle release",
+    "excitation-inhibition balance",
+    "autism spectrum disorder",
+    "structural identifiability",
+    "homeostatic plasticity",
+    "short-term synaptic plasticity",
+    "quantal analysis",
+    "Fisher information",
+    "computational neuroscience",
+    "reproducibility"
+  ],
+  "version": "v1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/lgonzalezpaz/excitation-inhibition-in-autism",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

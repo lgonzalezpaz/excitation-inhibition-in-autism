@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+message: "If you use this software or computational framework, please cite both the software and the paper."
+title: "The excitation-inhibition ratio cannot identify its own cause: A computational study of release statistics distinguishes primary from compensatory presynaptic change in autism"
+type: software
+authors:
+  - family-names: "Alvarado"
+    given-names: "Ysaías J."
+    affiliation: "Instituto Venezolano de Investigaciones Científicas (IVIC), Centro de Biomedicina Molecular (CBM)"
+  - family-names: "Quintero"
+    given-names: "Máximo"
+    affiliation: "Servicio Autónomo Hospital Universitario de Maracaibo (SAHUM); Universidad del Zulia"
+  - family-names: "Cardozo-Urdaneta"
+    given-names: "Arlene"
+    affiliation: "Instituto Venezolano de Investigaciones Científicas (IVIC), Centro de Biomedicina Molecular (CBM)"
+  - family-names: "Lossada"
+    given-names: "Carla"
+    affiliation: "Instituto Venezolano de Investigaciones Científicas (IVIC), Centro de Biomedicina Molecular (CBM)"
+  - family-names: "Marrero-Ponce"
+    given-names: "Yovani"
+    affiliation: "Universidad Panamericana; Universidad San Francisco de Quito"
+  - family-names: "Martinez-Rios"
+    given-names: "Félix"
+    affiliation: "Universidad Panamericana"
+  - family-names: "Pérez-Castillo"
+    given-names: "Yunierkis"
+    affiliation: "Universidad de las Américas"
+  - family-names: "Delgado"
+    given-names: "Ariana"
+    affiliation: "Instituto Venezolano de Investigaciones Científicas (IVIC), Centro de Biomedicina Molecular (CBM)"
+  - family-names: "González-Paz"
+    given-names: "Lenin"
+    affiliation: "Instituto Venezolano de Investigaciones Científicas (IVIC), Centro de Biomedicina Molecular (CBM)"
+repository-code: "https://github.com/lgonzalezpaz/excitation-inhibition-in-autism"
+url: "https://github.com/lgonzalezpaz/excitation-inhibition-in-autism"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-09"
+keywords:
+  - synaptic vesicle release
+  - excitation-inhibition balance
+  - autism spectrum disorder
+  - structural identifiability
+  - homeostatic plasticity
+  - quantal analysis
+  - Fisher information
+abstract: >-
+  An exact moment-based model of multi-site stochastic vesicular release, with
+  a structural identifiability analysis of the excitation-inhibition ratio, a
+  compensation-invariant residual that distinguishes primary from compensatory
+  presynaptic change, a resupply-limited ceiling on presynaptic homeostasis,
+  and a validation against public human genomic and transcriptomic data.
+preferred-citation:
+  type: article
+  title: "The excitation-inhibition ratio cannot identify its own cause: A computational study of release statistics distinguishes primary from compensatory presynaptic change in autism"
+  authors:
+    - family-names: "Alvarado"
+      given-names: "Ysaías J."
+    - family-names: "Quintero"
+      given-names: "Máximo"
+    - family-names: "Cardozo-Urdaneta"
+      given-names: "Arlene"
+    - family-names: "Lossada"
+      given-names: "Carla"
+    - family-names: "Marrero-Ponce"
+      given-names: "Yovani"
+    - family-names: "Martinez-Rios"
+      given-names: "Félix"
+    - family-names: "Pérez-Castillo"
+      given-names: "Yunierkis"
+    - family-names: "Delgado"
+      given-names: "Ariana"
+    - family-names: "González-Paz"
+      given-names: "Lenin"
+  year: 2026
+  url: "https://github.com/lgonzalezpaz/excitation-inhibition-in-autism"
